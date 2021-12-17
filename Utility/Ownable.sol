@@ -3,7 +3,7 @@
 
 pragma solidity >=0.6.0 <0.8.0;
 
-import "https://github.com/NDaveDev/Solidity/blob/main/Context.sol";
+import "https://github.com/NDaveDev/Solidity/blob/main/Utility/Context.sol";
 
 /**
  * @dev Contract module which provides a basic access control mechanism, where
