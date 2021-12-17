@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts v4.4.1 (token/ERC20/extensions/ERC20Burnable.sol)
 
-pragma solidity ^0.8.0;
+pragma solidity >=0.6.0 <0.8.0;
 
 import "https://github.com/NDaveDev/Solidity/blob/main/Tokens/ERC20/IERC20.sol";
 
