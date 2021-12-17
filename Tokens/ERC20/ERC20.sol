@@ -3,6 +3,8 @@
 
 pragma solidity >=0.6.0 <0.8.0;
 
+import "https://github.com/NDaveDev/Solidity/blob/main/Utility/Context.sol";
+import "https://github.com/NDaveDev/Solidity/blob/main/Utility/Math/SafeMath.sol";
 import "https://github.com/NDaveDev/Solidity/blob/main/Tokens/ERC20/IERC20.sol";
 import "https://github.com/NDaveDev/Solidity/blob/main/Tokens/ERC20/Extensions/IERC20Metadata.sol";
 
