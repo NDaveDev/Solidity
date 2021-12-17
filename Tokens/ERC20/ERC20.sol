@@ -3,8 +3,8 @@
 
 pragma solidity ^0.8.0;
 
-import "./IERC20.sol";
-import "./extensions/IERC20Metadata.sol";
+import "https://github.com/NDaveDev/Solidity/blob/main/Tokens/ERC20/IERC20.sol;
+import "https://github.com/NDaveDev/Solidity/blob/main/Tokens/ERC20/IERC20Metadata.sol";
 
 /**
  * @dev Implementation of the {IERC20} interface.
